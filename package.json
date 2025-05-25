@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "Dmitry Kontsevenko",
+  "author": "IlyaVQ",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.40.0",
